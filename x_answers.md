@@ -15,17 +15,18 @@ Solutions for questions in `X-questions.md`
 **To Find:** Students who like *only* Mathematics.
 
 We use:
-\[
+$$[
 |M \text{ only}| = |M| - |M \cap S|
-\]
-\[
+\]$$
+
+$$[
 |M \text{ only}| = 32 - 18 = 14
-\]
+\]$$
 
 **Answer:**
-\[
+$$[
 \boxed{14 \text{ students like only Mathematics.}}
-\]
+\]$$
 
 ---
 
@@ -35,36 +36,37 @@ We use:
 If the angle of elevation of the top of a tower from a point 30 m away is 45°, find the height of the tower.
 
 **Solution:**
-\[
+$$[
 \tan 45° = \frac{h}{30} = 1
-\]
-\[
+\]$$
+
+$$[
 h = 30 \, m
-\]
+\]$$
 
 **Answer:**
-\[
+$$[
 \boxed{\text{Height = 30 m}}
-\]
+\]$$
 
 ---
 
 ## 🧮 3. Quadratic Equations — Nature of Roots
 
 Solve the quadratic equation:
-\[
+$$[
 x^2 - 5x + 6 = 0
-\]
+\]$$
 
 **Factorize:**
-\[
+$$[
 x^2 - 5x + 6 = (x-2)(x-3) = 0
-\]
+\]$$
 
 **Roots:**
-\[
+$$[
 x = 2, \quad x = 3
-\]
+\]$$
 
 **Nature of Roots:** Real & Distinct.
 
@@ -81,12 +83,12 @@ Tangents drawn from an external point to a circle are equal.
 Given: PA and PB are tangents from point P.
 
 We know:
-\[
+$$[
 PA^2 = PB^2 \Rightarrow PA = PB
-\]
+\]$$
 
 **Answer:**
-\[
+$$[
 \boxed{\text{PA and PB are equal.}}
-\]
+\]$$
 
