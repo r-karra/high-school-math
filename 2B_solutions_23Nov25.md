@@ -17,18 +17,19 @@ $$
 
 ### ✔ Solution
 
-
 Let the center be \((h, k)\) and radius be \(r\).
 
 Since the circle passes through \((2,3)\) and \((4,5)\):
 
 $$
-(2 - h)^2 + (3 - k)^2 = r^2 \tag{1}
+(2 - h)^2 + (3 - k)^2 = r^2
 $$
 
 $$
-(4 - h)^2 + (5 - k)^2 = r^2 \tag{2}
+(4 - h)^2 + (5 - k)^2 = r^2
 $$
+
+
 
 
 
